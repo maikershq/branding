@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
 <div align="center">
-  <img src="logo/maikers-logo.png" alt="Maikers Logo" width="200" />
+  <img src="logo/logo.png" alt="Maikers Logo" width="200" />
 </div>
 
 ## Assets
@@ -19,14 +19,14 @@
 
 | File | Description |
 |------|-------------|
-| `maikers-logo.png` | Primary logo |
-| `maikers-logo-ai.png` | AI-focused variant |
-| `maikers-logo-id.png` | Identity variant |
-| `maikers-logo-governance.png` | Governance variant |
-| `maikers-logo-animation.gif` | Animated logo |
-| `maikers-logo-animation-id.gif` | Animated identity logo |
-| `maikers-logo-nobg-text.png` | Transparent background with text |
-| `maikers-logo-nobg-text-white.png` | Transparent background with white text |
+| `logo.png` | Primary logo |
+| `logo-ai.png` | AI-focused variant |
+| `logo-id.png` | Identity variant |
+| `logo-governance.png` | Governance variant |
+| `logo-animation.gif` | Animated logo |
+| `logo-animation-id.gif` | Animated identity logo |
+| `logo-nobg-text.png` | Transparent background with text |
+| `logo-nobg-text-white.png` | Transparent background with white text |
 
 ## Usage Guidelines
 
